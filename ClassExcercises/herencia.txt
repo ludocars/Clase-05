@@ -1,0 +1,15 @@
+la clase padre con atributos basicos se llama de forma interna
+
+caracteristas (){
+string nombre
+int dni 
+string apellido
+}
+
+la clase hijo es quien se contruye y realiza llamado del padre para obtener de los datos basicos y sus datos propios
+
+contructor hijo(string name){
+
+}
+
+este contructor se entiende que se va a necesitar la variable name y se debe capturar 
